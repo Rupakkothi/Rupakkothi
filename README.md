@@ -140,8 +140,8 @@ engineer:
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rupakkothi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rupakkothi GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupakkothi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rupakkothi&theme=tokyonight" alt="Rupakkothi GitHub Stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupakkothi&theme=tokyonight" alt="Top Languages" height="180" />
 </div>
 
 <br/>
